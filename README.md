@@ -5,4 +5,14 @@ Experiment No 2 Output:
 Experiment No 3 Output:
 <img width="446" height="592" alt="image" src="https://github.com/user-attachments/assets/b898b51f-fdb2-4783-893b-fd5b3654655c" />
 Experiment No 4 Output:
+<img width="400" height="595" alt="image" src="https://github.com/user-attachments/assets/21aeb2eb-7d6e-4336-8c8f-3bbb5cf17c67" />
+Experiment No 5 Output:
+
+Experiemnt No 6 Output:
+
+Experiment No 7 Output:
+
+Experiment No 8 Output:
+
+Experiment No 9 Output:
 
