@@ -13,6 +13,7 @@ Experiemnt No 6 Output:
 <img width="267" height="282" alt="image" src="https://github.com/user-attachments/assets/e770b190-8748-48fb-905e-e45cf711ed17" />
 
 Experiment No 7 Output:
+<img width="442" height="192" alt="image" src="https://github.com/user-attachments/assets/df5f3b51-037e-458d-a6d8-596202baf94c" />
 
 Experiment No 8 Output:
 
