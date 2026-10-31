@@ -7,6 +7,7 @@ Experiment No 3 Output:
 Experiment No 4 Output:
 <img width="400" height="595" alt="image" src="https://github.com/user-attachments/assets/21aeb2eb-7d6e-4336-8c8f-3bbb5cf17c67" />
 Experiment No 5 Output:
+<img width="320" height="422" alt="image" src="https://github.com/user-attachments/assets/3db3208b-214f-41d6-bf11-234baaf39860" />
 
 Experiemnt No 6 Output:
 
