@@ -3,5 +3,6 @@ Experiment No 1 Output:
 Experiment No 2 Output:
 <img width="447" height="670" alt="image" src="https://github.com/user-attachments/assets/20de7523-0f72-46fd-b954-7306e958d793" />
 Experiment No 3 Output:
-<img width="293" height="389" alt="image" src="https://github.com/user-attachments/assets/1294d5b9-925f-45a1-908e-39d44d167932" />
+<img width="446" height="592" alt="image" src="https://github.com/user-attachments/assets/b898b51f-fdb2-4783-893b-fd5b3654655c" />
+Experiment No 4 Output:
 
